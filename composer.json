@@ -1,5 +1,5 @@
 {
-    "name": "ken/bitpoller",
+    "name": "marfillaster/coinsph-ticker-poller",
     "require": {
         "symfony/process": "^3.0",
         "monolog/monolog": "^1.17"
