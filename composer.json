@@ -1,0 +1,15 @@
+{
+    "name": "ken/bitpoller",
+    "require": {
+        "symfony/process": "^3.0",
+        "monolog/monolog": "^1.17"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ken Marfilla",
+            "email": "marfillaster@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
